@@ -20,5 +20,5 @@ This project demonstrates how to use a simple Linear Regression model to predict
 
 ## 🚀 How to Run
 
-1. Clone the repository : https://github.com/sasank8707/House-Price-prediction.git2.  Install dependencies: pip install -r requirements.txt
+1. Clone the repository : https://github.com/sasank8707/SCT_ML_1.git2.  Install dependencies: pip install -r requirements.txt
 3.  Run the notebook
